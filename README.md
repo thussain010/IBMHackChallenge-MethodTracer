@@ -37,8 +37,11 @@ class name in the manifest Main-Class element.
 prerequisite:the java program should be compiled.
 
 Step1: Open the TraceMethod.jar file by double click.
-Step2: Choose the ".class" file you have to analyze or compare
+
+Step2: Choose the ".class" file you have to analyze or compare.
+
 Step3: Click from the below two options if "Compare" clicked then go to Step 4 or else go to step 5.
+
 Step4: 
 	Step4.1:Run all 4 commands on cmd from anywhere and click  and click proceed.
 	Step4.2:the output is the two tables with 2 trace data.
