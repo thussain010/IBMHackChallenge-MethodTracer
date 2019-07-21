@@ -50,8 +50,11 @@ Step4:
 
 
 Step5: 
+	
 	Step5.1: Run the 2 commands on cmd from anywhere and click  and click proceed.
+	
 	Step5.2: The output is the two table trace data.
+	
 	Step5.3: Click on Barchart to get the bar chart of the frequency of the methods.
 
 note:	you can run the cmd command from anywhere.
