@@ -43,13 +43,16 @@ Step2: Choose the ".class" file you have to analyze or compare.
 Step3: Click from the below two options if "Compare" clicked then go to Step 4 or else go to step 5.
 
 Step4: 
-	Step4.1:Run all 4 commands on cmd from anywhere and click  and click proceed.
-	Step4.2:the output is the two tables with 2 trace data.
+
+	Step4.1: Run all 4 commands on cmd from anywhere and click  and click proceed.
+	
+	Step4.2: The output is the two tables with 2 trace data.
+
 
 Step5: 
-	Step5.1:Run the 2 commands on cmd from anywhere and click  and click proceed.
-	Step5.2:the output is the two table trace data.
-	Step5.3:click on Barchart to get the bar chart of the frequency of the methods.
+	Step5.1: Run the 2 commands on cmd from anywhere and click  and click proceed.
+	Step5.2: The output is the two table trace data.
+	Step5.3: Click on Barchart to get the bar chart of the frequency of the methods.
 
 note:	you can run the cmd command from anywhere.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
