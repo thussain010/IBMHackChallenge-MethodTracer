@@ -1,7 +1,9 @@
 # IBMHackChallenge-MethodTracer
+
 This desktop app is used to trace method in a java program.it is a program which help developer to find the problematic method and also find the count and time taken by methods. 
+
 ========================
-BUILD OUTPUT DESCRIPTION
+# BUILD OUTPUT DESCRIPTION
 ========================
 
 When you build an Java application project that has a main class, the IDE
@@ -64,7 +66,12 @@ Step5:
 	
 	Step5.3: Click on Barchart to get the bar chart of the frequency of the methods.
 
-NOTE :	You can run the cmd command from anywhere.
+
+NOTE : You can run the cmd command from anywhere.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The code is in below TraceMethod.rar file.
-please delete a.log,b.log,a.trc,b.trc from your .class locations.
+
+The code is in TraceMethod.rar file named as TraceMethod-CODE.rar you have to extract it to see whole code and work in java.
+
+Please delete a.trc, b.trc, a.log, b.log from your class file locations.
+
