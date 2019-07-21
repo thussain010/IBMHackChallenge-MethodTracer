@@ -43,7 +43,15 @@ class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
 
 
-prerequisite:the java program should be compiled.
+# Prerequisite:
+
+1. The java program should be compiled.
+
+2. https://adoptopenjdk.net/ -- OPENJDK
+
+3. JFreeChart if you want to edit the code. For Bar-chart prepration
+
+# Steps
 
 Step1: Open the TraceMethod.jar file by double click.
 
